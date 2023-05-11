@@ -43,4 +43,4 @@ jobs:
           platforms: linux/arm64
           push: true
           tags: 
-            690094504/checkchan:latest
+            690094504/checkchan:1.0
